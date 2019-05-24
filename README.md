@@ -1,2 +1,0 @@
-# reactTrainingLive
-Created with CodeSandbox
